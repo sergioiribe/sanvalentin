@@ -96,7 +96,7 @@ body {
   transform: rotateX(-180deg);
   transform-origin: bottom;
   z-index: -1;
-  transition: transform 3s, z-index 1.8s;
+  transition: transform 3s;
 }
 
 .linea {
